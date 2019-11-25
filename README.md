@@ -6,4 +6,6 @@ El trabajo consiste en consultar los servicios api de https://openweathermap.org
 
 El diseño del front queda a tu criterio. Ademas de los scripts php deberias subir a este repositorio los scripts de creación de la db. Podes utilizar: PHP. Mysql. Jquery.
 
+Todo debera ser subido como un nuevo Fork.
+
 Suerte
