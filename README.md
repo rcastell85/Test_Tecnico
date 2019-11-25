@@ -1,4 +1,3 @@
-
 #Test técnico
 
 Con esta actividad evaluaremos tus conocimientos generales en distintas herramientas, la actividad no posee un tiempo límite. Pero te pedimos que nos informes cuál sería el tiempo que estimas necesario para realizarlo.
